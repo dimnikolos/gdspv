@@ -1,7 +1,7 @@
 when green flag clicked
 say [hi]
-repeat (10)
+repeat (36)
 move (10) steps
-turn cw (36) degrees
+turn cw (10) degrees
 end
 say [bye]
